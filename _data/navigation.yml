@@ -1,11 +1,15 @@
 # Sample site navigation bar links
 
 - title: LEAP
-  url: /
-- title: Blog
-  url: /blog/
-- title: Ricerca
-  url: /ricerca/
+  url: https://L-E-A-P.github.io
+- title: S.T.ONE
+  url: /stone/
+- title: TEMPO
+  url: /tempo/
+- title: CAD
+  url: /cad/
+- title: P4D
+  url: https://grammaton.github.io/p4d/
 # - title: Recipes
 #   url: /recipes/
 - title: Search
