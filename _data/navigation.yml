@@ -1,11 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: LEAP
   url: /
-- title: Lazzaro
-  url: /lazzaro/
-- title: Lazzaroni
-  url: /lazzaroni/
+- title: Blog
+  url: /blog/
+- title: Ricerca
+  url: /ricerca/
 # - title: Recipes
 #   url: /recipes/
 - title: Search
