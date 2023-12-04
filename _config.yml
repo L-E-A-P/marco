@@ -18,11 +18,11 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 locale: it-IT
-title: "Giuseppe"
-description: "ElettroAcustico Permanente"
-baseurl: "/giuseppe" # the subpath of your site, e.g. "/blog"
+title: "Marco"
+description: ""
+baseurl: "/marco" # the subpath of your site, e.g. "/blog"
 url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: https://raw.githubusercontent.com/grammaton/giuseppe/main/images/gs.jpg # path of site logo, e.g. "/images/logo.png"
+logo: "/images/cassambira_red.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -37,7 +37,7 @@ mathjax:
 #     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: leap-2 # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: disqus_mdg81 # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
 
@@ -92,10 +92,10 @@ defaults:
 
 # Site Author
 author:
-  name: Giuseppe Silvi
-  email: grammaton@me.com
-  picture: /images/gs.jpg
-  twitter: "@giuseppesilvi"
+  name: Marco Di Gasbarro
+  email: m.digasbarro@gmail.com
+  picture: /images/ardecore_villaada.jpg
+  twitter:
   links:
     - title:
       url:
@@ -107,7 +107,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Telegram
-    url: https://t.me/+T6f_6KIRNPszYTQ0
+    url:
     icon: fab fa-telegram-square
   - title: GitHub
     url: https://github.com/l-e-a-p
