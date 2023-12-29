@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-*todo es según el color del cristal con que se mira*(*1)
+*todo es según el color del cristal con que se mira*(1)
 
 Nel percepire il mondo in cui siamo la tecnologia riveste il ruolo di lente, che mentre focalizza e ne permette la discretizzazione -utile alla sua comprensione-, allo stesso tempo interferisce con esso deformandolo. Se lo strumento musicale è la tecnologia del musicista e gli oggetti del mondo -utilizzati con una tecnica- sono lo strumento archetipico del percussionista, il mondo stesso, per il solo motivo di esistere come un nostro strumento, modifica dunque la percezione di sé, configurando questo rapporto di strumento-filtro come retroattivo. 
 In breve, noi percussionisti siamo in feedback costante.
