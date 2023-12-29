@@ -4,9 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-*todo es según el color del cristal con que se mira*
-
-Rubén Blades (Según El Color, da Metiendo Mano, 1977)
+*todo es según el color del cristal con que se mira*(1)
 
 Nel percepire il mondo in cui siamo la tecnologia riveste il ruolo di lente, che mentre focalizza e ne permette la discretizzazione -utile alla sua comprensione-, allo stesso tempo interferisce con esso deformandolo. Se lo strumento musicale è la tecnologia del musicista e gli oggetti del mondo -utilizzati con una tecnica- sono lo strumento archetipico del percussionista, il mondo stesso, per il solo motivo di esistere come un nostro strumento, modifica dunque la percezione di sé, configurando questo rapporto di strumento-filtro come retroattivo. 
 In breve, noi percussionisti siamo in feedback costante.
@@ -18,3 +16,5 @@ Nell'universo del LEAP ho la possibilità di sviluppare prassi esecutive su stru
   Queste ricerche su timbri e risonanze mi hanno portato all'utilizzo di strumenti personalizzati per la didattica della musica d'insieme, nei laboratori per bambini e ragazzi in età scolare e pre-scolare che conduco, da solo e con Leonardo Zaccone.
   Altre *confederazioni* di strumenti musicali con origini lontane vengono utilizzate nel gruppo di sperimentazione di danza e musica con [Renato Ferreira](https://renatomusica.wordpress.com), [Marta Sponzilli](https://martasponzilli.blogspot.com/) e [Claudia Pelliccia](https://www.facebook.com/claudia.pelliccia.946). 
   La ricerca strumentale si alimenta con lo studio e la messa in scena del repertorio solistico acustico ed elettroacustico per percussioni, tra cui The King of Denmark (1964, Morton Feldman), Mobile Locale (1991, Michelangelo Lupone), Libra (1991, Mauro Cardi), Ripercussioni (2015, Giuseppe Silvi).
+
+(1) Rubén Blades, Según El Color, da Metiendo Mano, 1977
