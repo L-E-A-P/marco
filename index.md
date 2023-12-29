@@ -4,6 +4,12 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
+p>.*todo es según el color del cristal con que se mira*
+p>.Rubén Blades (Según El Color, da Metiendo Mano, 1977)
+
+Nel percepire il mondo in cui siamo la tecnologia riveste il ruolo di lente, che mentre focalizza e ne permette la discretizzazione -utile alla sua comprensione-, allo stesso tempo interferisce deformandolo.
+Se lo strumento musicale è la tecnologia del musicista e gli oggetti del mondo - utilizzati con una tecnica - sono lo strumento archetipico del percussionista, il mondo stesso, per il solo motivo di esistere come un nostro strumento, modifica dunque la percezione di sé, configurando questo rapporto di strumento-filtro come retroattivo. 
+In breve, noi percussionisti siamo in feedback costante.
 
 Batterista percussionista, informatico, insegnante. Nel corso delle esperienze musicali performative e didattiche che vivo subisco l'influsso di mondi apparentemente distanti, uniti da un comune percorso di ricerca e restituzione continuo, radicato nelle tradizioni popolari e permeabile alle tecnologie, intese come ragionamento sull'arte.
 Musica nuova, acustica, elettronica, improvvisazione, composizione collettiva sono le coordinate che formano il mondo sonoro in cui mi aggiro e che condivido con le persone con cui studio, suono ed insegno.
