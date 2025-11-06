@@ -21,7 +21,7 @@ locale: it-IT
 title: "Marco"
 description: ""
 baseurl: "/marco" # the subpath of your site, e.g. "/blog"
-url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://www.leaphz.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/cassambira_red.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
